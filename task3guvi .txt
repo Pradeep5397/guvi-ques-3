@@ -1,0 +1,53 @@
+Linux commands 
+
+1) pwd=public work directory
+2) sudo su=to become super user
+3) ls =to view a files
+4) mkdir =to make an directory
+5) rmdir =to remove an directory
+6) cd =to change an directory
+7) cd.. =to come into the parent directory
+8) cat =to create an file
+9) touch =to create an empty file
+10) vi =to use as an editor
+11) cp = to copy an file
+12) mv = to cut,paste and rename
+13) rm -rf = to delete all files
+14) clear = to clear all commands
+15) ls -al = to see the permission of an file
+16) less long file name = to show the file in one standard
+17) head long file = show first 5 files
+18) tail long file name = show last 5 files
+19) grep = help us to find the file or pattern in one  directory
+20) find = to find the file or pattern  in whole directory
+21) useradd = to add an user
+22) cat/etc/passwd = to see all user
+23) groupadd = to add an group
+24) gpasswd -a = to add an user in group
+25) gpasswd-m = to add multiple user
+26) userdel = to delete an user
+27) groupdel = to delete an group
+28) chmod = to change an permission of an file
+29) chown  = to chnage the owner
+30) touch = to create an empty file
+31) gzip = to compress an file
+32) unzip = to uncompress an file
+33) ta r= to compress an directory
+34) tar-z cvf tar file.name tgz = to archieve and compression
+35) tar -z xcf tar file.name = to extract
+36) top = to display the running status 
+37) ps = process status
+38) yum install = to install
+39) yum updtae
+40) yum delete
+41) ping = to check the connection
+42) if config = to see interfece configuration
+43) curl = to transfer the date
+44) wget = copy the link
+45) trace out = trouble shooting command
+46) trace path = to see the route b/w two user
+47) ps -u = additional information
+48) kill process id = to kill the process
+49) kill -g pid = to forcefully kill a process
+50) history = to see all the commands we used 
+51) netstatus = to see the status of internet connection..
